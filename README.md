@@ -185,5 +185,3 @@ investment. Operationally, the **South** region lags on revenue and the
 the slowest mode — is also disproportionately used for higher-value orders,
 pointing to fulfillment prioritization as a concrete area to investigate
 further.
-#   S u p e r s t o r e - w h a r e h o u s e  
- 
