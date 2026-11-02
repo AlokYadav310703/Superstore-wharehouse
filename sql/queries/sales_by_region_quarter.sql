@@ -1,0 +1,1 @@
+-- Example analytical query: revenue by region by quarter using the star schema

@@ -1,0 +1,2 @@
+-- CREATE TABLE statements for dim_customer, dim_product, dim_location,
+-- dim_date, and fact_sales go here.

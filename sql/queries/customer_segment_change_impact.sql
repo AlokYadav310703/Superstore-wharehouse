@@ -1,0 +1,2 @@
+-- Uses dim_customer SCD2 history to compare a customer's spend before/after
+-- a segment or region change
